@@ -1,0 +1,2 @@
+# conkan_stakeholder
+conkan関係者管理サブシステム
